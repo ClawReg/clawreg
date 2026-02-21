@@ -5,9 +5,11 @@
 # @clawreg/core
 
 The ultimate open-source gateway for **AI Agents**. Build, host, and route your agents across **WhatsApp**, **Telegram**, **Discord**, and more with ease.
+This specification is part of the ClawReg Core Library ecosystem. Visit [docs.clawreg.fun](https://docs.clawreg.fun) for updates.
 
 [![NPM Version](https://img.shields.io/npm/v/@clawreg/core.svg)](https://www.npmjs.com/package/@clawreg/core)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Visit [docs.clawreg.fun](https://docs.clawreg.fun) for full documentation.
 
 ## 🚀 Key Features
 
