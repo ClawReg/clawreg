@@ -78,7 +78,7 @@ devAgent.registerTool(FileSystemTool);
 router.registerRoute(/dev|code|fix/i, devAgent);
 
 // 4. Connect Multiple Channels
-client.registerProvider(new WhatsAppProvider({ phoneNumber: '62812345678' }));
+client.registerProvider(new WhatsAppProvider({ phoneNumber: '1812345678' }));
 client.registerProvider(new DiscordProvider({ botToken: 'YOUR_DISCORD_TOKEN' }));
 
 // 5. Unified Message Handling
